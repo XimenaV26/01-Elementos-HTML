@@ -4,8 +4,8 @@
 
 Contiene ejemplo de uso de los elementos **HTML** mas basicos: 
 
--Encabezados
--Parrafos 
-Listas
--Tablas
--Formularios 
+- Encabezados
+- Parrafos 
+- Listas
+- Tablas
+- Formularios 
